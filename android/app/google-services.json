@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "760192617126",
+    "firebase_url": "https://esp32-9fdd0-default-rtdb.firebaseio.com",
+    "project_id": "esp32-9fdd0",
+    "storage_bucket": "esp32-9fdd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760192617126:android:3c113057c6886182c90267",
+        "android_client_info": {
+          "package_name": "com.example.micro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760192617126-rssmaar3daufsuqiifofsul72h7b1o09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQFFLf3sD_CFR3nKlAXMZXgvzwduF9YKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760192617126-rssmaar3daufsuqiifofsul72h7b1o09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
